@@ -11,12 +11,9 @@ StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 Trixi = "a7f1ee26-1774-49b1-8366-f1abc58fbfcb"
 
 [compat]
-BenchmarkTools = "1"
 CUDA = "5"
-SciMLBase = "2"
-StaticArrays = "1"
-Trixi = "0.9.10 - 0.9.15"
-julia = "1.10"
+Trixi = "0.9.10 - 0.11.2"
+julia = "1.11"
 
 [extras]
 Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
